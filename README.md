@@ -1,4 +1,10 @@
-## Hi there 👋
+Hello!
+
+My name is Roman, and I am a software engineering student at ASU.
+I have joined GitHub to learn more about the platform and to hopefully contribute to some
+interesting projects. I am currently in my junior year of college, which means I have a good
+foundation of coding knowledge. I would like to contribute to projects here to learn more about 
+real-world programming projects, and to practice what I have learned so far. 
 
 <!--
 **RomanR16/RomanR16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
